@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="ipCamera">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/requirements/ipCamera" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/requirements/ipCamera" recursive="false" />
+  </library>
+</component>
